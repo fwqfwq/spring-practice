@@ -1,2 +1,2 @@
-# components
+# Components
 Components crumbs
